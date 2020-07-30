@@ -1,0 +1,10 @@
+C:\Users\a\source\repos\tpii\tpii\obj\Debug\tpii.csprojAssemblyReference.cache
+C:\Users\a\source\repos\tpii\tpii\obj\Debug\tpii.frmLogin.resources
+C:\Users\a\source\repos\tpii\tpii\obj\Debug\tpii.Properties.Resources.resources
+C:\Users\a\source\repos\tpii\tpii\obj\Debug\tpii.csproj.GenerateResource.cache
+C:\Users\a\source\repos\tpii\tpii\obj\Debug\tpii.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\tpii\tpii\bin\Debug\tpii.exe.config
+C:\Users\a\source\repos\tpii\tpii\bin\Debug\tpii.exe
+C:\Users\a\source\repos\tpii\tpii\bin\Debug\tpii.pdb
+C:\Users\a\source\repos\tpii\tpii\obj\Debug\tpii.exe
+C:\Users\a\source\repos\tpii\tpii\obj\Debug\tpii.pdb
